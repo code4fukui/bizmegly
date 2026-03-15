@@ -1,5 +1,7 @@
 # bizmegly
 
+> 日本語のREADMEはこちらです: [README.ja.md](README.ja.md)
+
 A web application that allows users to explore company photos from the Sakai Open Data in Osaka, Japan.
 
 ## Demo
