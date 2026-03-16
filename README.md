@@ -16,4 +16,4 @@ A web application that allows users to explore company photos from the Sakai Ope
 This project uses the company image data from the [Sakai Open Data](https://github.com/codeforosaka/sakai-biz-opendata/) provided by [Sakacil](https://sakacil.com/).
 
 ## License
-This project is licensed under the MIT License.
+MIT License — see [LICENSE](LICENSE).

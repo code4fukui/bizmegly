@@ -1,6 +1,6 @@
-# bizmegly
+# 大阪堺市の企業フォト巡り
 
-大阪堺市の企業フォト巡り - さかしる企業オープンデータの写真から始まる出会い
+大阪堺市の企業オープンデータの写真から始まる出会いを探索するWebアプリケーションです。
 
 ## デモ
 [大阪堺市の企業フォト巡り - さかしる企業オープンデータの写真から始まる出会い](https://code4fukui.github.io/bizmegly/sakai.html)
@@ -10,7 +10,7 @@
 - 企業情報を表示するモーダルウィンドウを表示
 
 ## データ・API
-- [さかしるデータJSON 画像のみ](https://github.com/codeforosaka/sakai-biz-opendata/)
+この プロジェクトでは、[Sakacil](https://sakacil.com/)が提供する[さかしるデータJSON 画像のみ](https://github.com/codeforosaka/sakai-biz-opendata/)を使用しています。
 
 ## ライセンス
 MIT License
